@@ -1,0 +1,84 @@
+{
+  "shops": [
+    {
+      "name": "Institute of Engineering and Technology",
+      "category": "Institute ",
+      "area": "Lucknow",
+      "time_to_open": "23/11/2020",
+      "time_to_close": "15/05/2024",
+      "id": 7
+    },
+    {
+      "name": "Alchemist",
+      "category": "Book",
+      "area": "London, UK",
+      "time_to_open": "20/12/2019",
+      "time_to_close": "22/02/2021",
+      "id": 8
+    },
+    {
+      "name": "rohan Hardware",
+      "category": "hardware",
+      "area": "nashik",
+      "time_to_open": "12/12/2015",
+      "time_to_close": "12/12/2035",
+      "id": 11
+    },
+    {
+      "name": "Shyam Jwellars",
+      "category": "Jwellary",
+      "area": "Delhi",
+      "time_to_open": "11/06/2006",
+      "time_to_close": "17/06/2025",
+      "id": 12
+    },
+    {
+      "name": "City Boutique",
+      "category": "Boutique",
+      "area": "Chennai",
+      "time_to_open": "23/10/2015",
+      "time_to_close": "12/04/2027",
+      "id": 13
+    },
+    {
+      "name": "Gupta Stationary",
+      "category": "Stationary Shop",
+      "area": "Lucknow-West",
+      "time_to_open": "04/07/2010",
+      "time_to_close": "02/12/2021",
+      "id": 14
+    },
+    {
+      "name": "Apna Grocery",
+      "category": "Grocery",
+      "area": "Kolkata",
+      "time_to_open": "18/07/2008",
+      "time_to_close": "18/07/2123",
+      "id": 15
+    },
+    {
+      "name": "Ada Beauty Parlour",
+      "category": "Parlour",
+      "area": "South-Delhi",
+      "time_to_open": "14/01/2016",
+      "time_to_close": "12/06//2050",
+      "id": 16
+    },
+    {
+      "name": "Sky Restaurant",
+      "category": "Restaurant",
+      "area": "Bhopal",
+      "time_to_open": "12/12/2020",
+      "time_to_close": "15/02/2021",
+      "id": 17
+    },
+    {
+      "name": "City Clinic",
+      "category": "Clinic",
+      "area": "Patna",
+      "time_to_open": "14/02/2001",
+      "time_to_close": "15/02/2080",
+      "id": 18
+    }
+  ]
+}
